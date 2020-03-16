@@ -35,6 +35,6 @@
 </tbody>
 </table>
 
-**Therac-25** is Computer controlled raditaion therapy that engineer develpoed to help with patient. However, instead during 1985 to 1987 patient were given surplus of radiation due to having bug in the system. This resulted in death and serious injury.
+**Therac-25** is Computer controlled radiation therapy that engineer develpoed to help with patient. However, instead during 1985 to 1987 patient were given surplus of radiation due to having bug in the system. This resulted in death and serious injury.
 
 **Ariane 5** is European heavy lift launch vehicle that were designed by French government space agency.
