@@ -1,4 +1,4 @@
-#Linked List 
+# Linked List 
 
 - Linked list is way of storing a memory in our storage and is different from storing it like in an array.
 - Unlike array, which data is stored together in block, linked lists are stord dyanmically across the memory and can be access through traversing through each link. 
