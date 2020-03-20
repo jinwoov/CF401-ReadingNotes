@@ -121,5 +121,18 @@ namespace SystemIODemo
                 Console.WriteLine(item);
             }
         }
+
+        static void DeleteItem(string testToremove)
+        {
+            string[] words = ReadAllLines();
+            string[] newWords = new string[words.Length - 1];
+
+            for (int i = 0; i < words.Length; i++)
+            {
+                if(words[i])
+            }
+
+
+        }
     }
 }

@@ -16,3 +16,4 @@ The data that usually lives in heap is less responsible when it comes to managin
 When the stack created using the values, it will slowly stack on top of each other and when each stack is done, it will bud off, cleaned by GC.
 
 When the values created and set as other int variable. the result of original variable persists same number, however, when the it is referenced and set, value will return 4 since it the original value is **referenced**.
+
