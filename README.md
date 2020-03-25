@@ -15,3 +15,4 @@ The deployed website carries all of the notes. Other way to access is to clone t
 4. [Class and Memory Management](./Notes/Reading4.md)
 5. [Linked Lists](./Notes/Reading5.md)
 7. [Interfaces](./Notes/Reading7.md)
+7. [Collections](./Notes/Reading8.md)
