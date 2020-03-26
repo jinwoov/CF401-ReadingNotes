@@ -14,5 +14,6 @@ The deployed website carries all of the notes. Other way to access is to clone t
 3. [System.IO](./Notes/Reading3.md)
 4. [Class and Memory Management](./Notes/Reading4.md)
 5. [Linked Lists](./Notes/Reading5.md)
-7. [Interfaces](./Notes/Reading7.md)
+6. [Interfaces](./Notes/Reading7.md)
 7. [Collections](./Notes/Reading8.md)
+8. [Enum and Collection](./Notes/Reading9.md)

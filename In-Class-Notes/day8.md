@@ -40,3 +40,5 @@ database , API, 3rd party
 
 
 for (let i = 0; i < count; i++)
+
+inherit more c#. YOu can inherit from one parents and interface you can implement multiple things in the class
