@@ -17,3 +17,4 @@ The deployed website carries all of the notes. Other way to access is to clone t
 6. [Interfaces](./Notes/Reading7.md)
 7. [Collections](./Notes/Reading8.md)
 8. [Enum and Collection](./Notes/Reading9.md)
+9. [LINQ]()
