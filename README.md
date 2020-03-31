@@ -20,4 +20,5 @@ The deployed website carries all of the notes. Other way to access is to clone t
 9. [LINQ](./Notes/Reading10.md)
 10. [Stack and Queue](./Notes/Reading11.md)
 11. [ASP.NET MVC](./Notes/Reading12.md)
+12. [Database](./Notes/Reading13.md)
 
