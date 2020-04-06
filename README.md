@@ -24,3 +24,4 @@ The deployed website carries all of the notes. Other way to access is to clone t
 13. [Entity Framework](./Notes/Reading14.md)
 14. [DB Seeding and Tag Helpers](./Notes/Reading15.md)
 15. [Tree](./Notes/Reading16.md)
+16. [Tree](./Notes/Reading17.md)
