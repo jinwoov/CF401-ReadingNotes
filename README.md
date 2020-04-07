@@ -25,3 +25,4 @@ The deployed website carries all of the notes. Other way to access is to clone t
 14. [DB Seeding and Tag Helpers](./Notes/Reading15.md)
 15. [Tree](./Notes/Reading16.md)
 16. [Dependency injection](./Notes/Reading17.md)
+17. [Views & Azure Deployment](./Notes/Reading18.md)
