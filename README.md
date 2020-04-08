@@ -26,3 +26,4 @@ The deployed website carries all of the notes. Other way to access is to clone t
 15. [Tree](./Notes/Reading16.md)
 16. [Dependency injection](./Notes/Reading17.md)
 17. [Views & Azure Deployment](./Notes/Reading18.md)
+18. [Readings: Intro to APIs](./Notes/Reading19.md)
