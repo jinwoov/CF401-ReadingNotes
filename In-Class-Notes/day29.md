@@ -178,6 +178,20 @@ public async Task<IActionResult> void OnPost()
 
         if(result.Succeeded)
         {
+            //registration is successful
+            // not yet logged in
+            Claim name = new Claim("FullName", $"{user.FirstName} {user.LastName}");
+            // working with dates
+            Claim Birthday = new Claim(ClaimTypes.DateOfBirth, new DateTime(user.Birthdate.Year, user.Birthdate.Month, user.Birthdate.Day).ToString("u"), ClaimValueTypes.DateTime);
+
+            Claim email = new Claim(ClaimTypes.Email, user.Email,ClaimValueTypes.Email);
+            
+            List<Claim> claims = new list<Claim>()
+            {
+                name, birthday, email
+            };
+            await _userManager.AddClaimsAsync(user, claims);
+
             //sign the user in
             await _signingManager.SignInAsync(user, isPersistent: false);
             return RedirectToAction("Index", "Home");
