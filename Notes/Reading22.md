@@ -46,4 +46,4 @@
     - only contains single piece of information
 - In ASP\.NET, proving who you are can be achieved by using `ClaimIdentity`.
 - `ClaimPrincipal` represents a user and contains one or more instances of `ClaimIdentitiy`.
-- 
+- Identity is 
