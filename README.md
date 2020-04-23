@@ -30,3 +30,5 @@ The deployed website carries all of the notes. Other way to access is to clone t
 19. [Identity](./Notes/Reading20.md)
 20. [Razor Page](./Notes/Reading21.md)
 21. [Claim](./Notes/Reading22.md)
+22. [Policies](./Notes/Reading23.md)
+
