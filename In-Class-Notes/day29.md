@@ -192,6 +192,16 @@ public async Task<IActionResult> void OnPost()
             };
             await _userManager.AddClaimsAsync(user, claims);
 
+            // from 4/23 class adding the ROLES
+            await _userManager.AddToRoleAsync(user, ApplicationRoles.Member);
+
+            if (user.Email == "email")
+            {
+                await _userManager.AddToRoleAsync(user, ApplicationRoles.Admin);
+                await _userManager.AddToRoleAsync(user, ApplicationRoles.DogMan);
+
+            }
+
             //sign the user in
             await _signingManager.SignInAsync(user, isPersistent: false);
             return RedirectToAction("Index", "Home");
@@ -247,3 +257,4 @@ In startup
     endpoints.MapRazorPages();
     endpoins.MapControllerRoute("default", "{controller=Home}/{action=}/{id?}")
 ```
+
