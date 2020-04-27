@@ -8,12 +8,16 @@ GTM startegy
     
     1. finding the job
     2. apply for the job
+        - resume 
     3. phone interview ( phone screening )
-        - first impressoin
+        - first impression
+        - friendly approachable
     4. code challenge
+        - technical knowledge
     5. log on to the portal and see if you can code
     6. interview and shadow
     7. answering the person
+        - in person interview
     8. offer
         - negotiate
         - how to negotiate and how to bring the scary question
