@@ -32,5 +32,6 @@ The deployed website carries all of the notes. Other way to access is to clone t
 21. [Claim](./Notes/Reading22.md)
 22. [Policies](./Notes/Reading23.md)
 23. [Hash Table](./Notes/Reading24.md)
+24. [View Component](./Notes/Reading25.md)
 
 
