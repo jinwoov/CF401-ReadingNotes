@@ -33,5 +33,6 @@ The deployed website carries all of the notes. Other way to access is to clone t
 22. [Policies](./Notes/Reading23.md)
 23. [Hash Table](./Notes/Reading24.md)
 24. [View Component](./Notes/Reading25.md)
+25. [SendGrid](./Notes/Reading26.md)
 
 
