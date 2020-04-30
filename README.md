@@ -35,6 +35,8 @@ The deployed website carries all of the notes. Other way to access is to clone t
 24. [View Component](./Notes/Reading25.md)
 25. [SendGrid](./Notes/Reading26.md)
 26. [OAuth](./Notes/Reading27.md)
+27. [Authorization Net](./Notes/Reading28.md)
+
 
 
 
