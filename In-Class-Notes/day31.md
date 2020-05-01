@@ -114,3 +114,16 @@ in the account add AccessDenied
 and fill cannot do that text
 
 
+```cs
+await _userManager.AddRoleAsync(user, ApplicationRoles.Member);
+
+if (user.Email == "amanda@codefllows.com")
+{
+    await _userManger.AddToRoleAsync(user, ApplicationRoles.Admin);
+    await _userManger.AddToRoleAsync(user, ApplicationRoles.CatLady);
+
+}
+
+````
+
+tell jon what to regrade

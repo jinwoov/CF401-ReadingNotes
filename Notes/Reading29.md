@@ -1,0 +1,23 @@
+# Graph
+
+- collection of vertices (nodes)
+- they are partially connected by segments name edges
+- Vertex is a node that can have 0 or more adjacent vertices
+- Edge is connection is between two nodes
+- Neighbor is a node that is adjacent nodes
+- Degree of vertex is the number of edges connected to that vertex.
+- `Undirected Graph` is a graph whre each connection is undeirected or bi directional.
+- `Directional graph` is where every edge is directed.
+- `Complete graph ` is when all nodes are connected. 
+- `Connected graph` is a graph that has all edge have at least one edge.
+- `Disconnected` when graph for some vertices is not connected
+- `Acyclic` graph is without cycle
+- `Cycle` graph is where node can be traversed through and potentially end up back at itself.
+- `Cyclic graph` is a graph that has cycle
+- `adjacent matrix is two dimensional array that shows what is connected and to show 1 is placed in the two d position and 0 for not connected edge
+- Sparse graph is few connection and dense graph is when there are many connection
+- The number with edges and that number is call weight.
+- The weights are shown as number in two d array and 0 is represented for edge that is not connected.
+- Queue and dequeue is used to traverse and `breadth-first` is a method of traversal.
+- `Depth first`is another method to traversal. 
+- 
