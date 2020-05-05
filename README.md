@@ -37,6 +37,8 @@ The deployed website carries all of the notes. Other way to access is to clone t
 26. [OAuth](./Notes/Reading27.md)
 27. [Authorization Net](./Notes/Reading28.md)
 28. [Graph](./Notes/Reading29.md)
+29. [Blob](./Notes/Reading30.md)
+
 
 
 
