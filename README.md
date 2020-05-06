@@ -3,7 +3,7 @@ Reading notes for 401 .NET course
 
 **Author: Jin Kim**
 
-**Deployed Website**: https://jinwoov.github.io/Reading-Notes/
+**Deployed Website**: https://jinwoov.github.io/CF401-ReadingNotes/
 
 ## How to use
 The deployed website carries all of the notes. Other way to access is to clone the link to your local machine and open `Notes` folder.
